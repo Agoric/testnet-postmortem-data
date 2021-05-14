@@ -1,0 +1,2 @@
+ag-cosmos-chain-state.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+dot-ag-chain-cosmos.tar.bz2 filter=lfs diff=lfs merge=lfs -text

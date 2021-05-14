@@ -1,0 +1,2 @@
+most-of/chain.out.gz filter=lfs diff=lfs merge=lfs -text
+most-of/chain.slog.gz filter=lfs diff=lfs merge=lfs -text

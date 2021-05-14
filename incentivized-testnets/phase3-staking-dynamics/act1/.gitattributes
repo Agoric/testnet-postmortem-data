@@ -1,0 +1,4 @@
+ag-cosmos-chain-state/data.mdb.gz filter=lfs diff=lfs merge=lfs -text
+chain-startup.slog.gz filter=lfs diff=lfs merge=lfs -text
+chain.out.gz filter=lfs diff=lfs merge=lfs -text
+chain.slog.gz filter=lfs diff=lfs merge=lfs -text
